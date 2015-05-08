@@ -1,6 +1,6 @@
 {
   "name": "color2html",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Convert ANSII color characters to html",
   "main": "./lib/color2html",
   "directories": {
